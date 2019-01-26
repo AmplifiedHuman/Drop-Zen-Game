@@ -25,3 +25,6 @@ __Android Users__
 - [ ] Add Lives 
 - [ ] Optimize Movement Speed
 - [ ] Make rain speed increase as time passes
+
+## Screenshot  
+![Screenshot](Capture.JPG)
