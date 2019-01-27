@@ -1,0 +1,98 @@
+[
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\drawable-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\drawable-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\drawable-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\drawable-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-hdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\drawable-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-anydpi-v26\\ic_launcher.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-hdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-hdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-hdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\drawable-mdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\drawable-mdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-mdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\drawable-anydpi-v26_ic_launcher_foreground.xml.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\drawable-anydpi-v26\\ic_launcher_foreground.xml"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\drawable-xxxhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\drawable-xxxhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\drawable-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\drawable-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xhdpi_ic_launcher.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xhdpi\\ic_launcher.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_round.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xxxhdpi\\ic_launcher_round.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-xxxhdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-xxxhdpi\\ic_launcher_foreground.png"
+    },
+    {
+        "merged": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\mipmap-mdpi_ic_launcher_foreground.png.flat",
+        "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\mipmap-mdpi\\ic_launcher_foreground.png"
+    }
+]

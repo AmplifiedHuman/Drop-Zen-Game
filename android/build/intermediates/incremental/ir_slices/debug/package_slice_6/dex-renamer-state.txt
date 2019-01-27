@@ -1,0 +1,4 @@
+#Sat Jan 26 16:36:18 GMT 2019
+base.0=C\:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\transforms\\dexMerger\\debug\\6
+path.0=classes.dex
+renamed.0=classes.dex

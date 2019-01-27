@@ -1,0 +1,4 @@
+#Sat Jan 26 17:01:11 GMT 2019
+base.0=C\:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\dex\\debug\\mergeDexDebug\\out
+path.0=classes.dex
+renamed.0=classes.dex
