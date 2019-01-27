@@ -1,6 +1,7 @@
 # Drop-Zen-Game  
-This is a minimalist game created for both Windows and Android 
-The game is pretty basic and the goal is to collect rain droplets as they fall.Users can either use a keyboard (arrow keys) or use a mouse to move the bucket.
+This is a minimalist game created for both Windows and Android.  
+The game is pretty basic and the goal is to collect rain droplets as they fall.  
+Users can either use a keyboard (arrow keys) or use a mouse (or touchscreen) to move the bucket.  
 <br/>
 ## Getting Started
 __Windows Users__  
