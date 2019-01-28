@@ -2,6 +2,7 @@
 This is a minimalist game created for both Windows and Android.  
 The game is pretty basic and the goal is to collect rain droplets as they fall.  
 Users can either use a keyboard (arrow keys) or use a mouse (or touchscreen) to move the bucket.  
+Previous versions can be found under releases.  
 <br/>
 ## Getting Started
 __Windows Users__  
@@ -18,11 +19,12 @@ __Android Users__
 - Java [JDK-8](https://www.oracle.com/technetwork/java/javase/downloads/jdk8-downloads-2133151.html) - Language used
 
 ## Versioning
+- Version 1.1 released
 - Version 1.0 released
 
 ## To do list
 - [x] Basic framework
-- [ ] Add Score to Top Right/Left
+- [x] Add Score to Top Right
 - [ ] Add Lives 
 - [ ] Optimize Movement Speed
 - [ ] Make rain speed increase as time passes
