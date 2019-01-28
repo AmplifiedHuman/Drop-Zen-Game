@@ -1,30 +1,16 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
+            "outputFile": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\build\\intermediates\\res\\merged\\release\\values_values.arsc.flat",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
-                    },
-                    "to": {
-                        "startLines": "5",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "210",
-                        "endLines": "12",
-                        "endColumns": "12",
-                        "endOffsets": "668"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\values\\strings.xml",
-                    "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
+                        "startOffsets": "56",
+                        "endColumns": "41",
+                        "endOffsets": "93"
                     },
                     "to": {
                         "startLines": "4",
@@ -35,7 +21,17 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\values\\ic_launcher_background.xml",
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\color.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "55",
+                        "endColumns": "55",
+                        "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\ic_launcher_background.xml",
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
@@ -52,18 +48,22 @@
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\values\\color.xml",
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\styles.xml",
                     "from": {
-                        "startLines": "-1",
-                        "startColumns": "-1",
-                        "startOffsets": "-1"
-                    },
-                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "55",
-                        "endColumns": "55",
-                        "endOffsets": "106"
+                        "startOffsets": "17",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "475"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "668"
                     }
                 }
             ]
