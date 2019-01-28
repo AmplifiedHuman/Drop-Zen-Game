@@ -8,7 +8,11 @@ import com.badlogic.gdx.audio.Sound;
 import com.badlogic.gdx.graphics.GL20;
 import com.badlogic.gdx.graphics.OrthographicCamera;
 import com.badlogic.gdx.graphics.Texture;
+import com.badlogic.gdx.graphics.g2d.BitmapFont;
 import com.badlogic.gdx.graphics.g2d.SpriteBatch;
+import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGenerator;
+import com.badlogic.gdx.graphics.g2d.freetype.FreeTypeFontGeneratorLoader;
+import com.badlogic.gdx.graphics.g2d.freetype.FreetypeFontLoader;
 import com.badlogic.gdx.math.MathUtils;
 import com.badlogic.gdx.math.Rectangle;
 import com.badlogic.gdx.math.Vector3;
@@ -28,6 +32,9 @@ public class Drop extends ApplicationAdapter {
     private Vector3 touchPos;
     private Array<Rectangle> raindrops;
     private long lastDropTime;
+    private BitmapFont font;
+    private long score;
+    private String scoreName;
 
 
     @Override
@@ -57,6 +64,15 @@ public class Drop extends ApplicationAdapter {
 
         raindrops = new Array<Rectangle>();
         spawnRaindrop();
+
+        FreeTypeFontGenerator generator = new FreeTypeFontGenerator(Gdx.files.internal("8bitfont.TTF"));
+        FreeTypeFontGenerator.FreeTypeFontParameter parameter = new FreeTypeFontGenerator.FreeTypeFontParameter();
+        parameter.size = 50;
+        font = generator.generateFont(parameter);
+        generator.dispose();
+        scoreName = "Score : 0";
+
+        score = 0;
     }
 
     @Override
@@ -68,6 +84,7 @@ public class Drop extends ApplicationAdapter {
         batch.setProjectionMatrix(camera.combined);
         batch.begin();
         batch.draw(bucketImage, bucket.x, bucket.y);
+        font.draw(batch, scoreName, 500, 440);
         for (Rectangle raindrop : raindrops) {
             batch.draw(dropImage, raindrop.x, raindrop.y);
         }
@@ -101,6 +118,8 @@ public class Drop extends ApplicationAdapter {
                 iter.remove();
             }
             if (raindrop.overlaps(bucket)) {
+                score++;
+                scoreName = "Score : " + score;
                 dropSound.play();
                 iter.remove();
             }
