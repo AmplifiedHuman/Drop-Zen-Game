@@ -8,9 +8,9 @@
                     "from": {
                         "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "56",
+                        "startOffsets": "59",
                         "endColumns": "41",
-                        "endOffsets": "93"
+                        "endOffsets": "96"
                     },
                     "to": {
                         "startLines": "4",
@@ -23,6 +23,13 @@
                 {
                     "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\color.xml",
                     "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "55",
+                        "endOffsets": "108"
+                    },
+                    "to": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
@@ -52,10 +59,10 @@
                     "from": {
                         "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "17",
+                        "startOffsets": "19",
                         "endLines": "9",
                         "endColumns": "12",
-                        "endOffsets": "475"
+                        "endOffsets": "484"
                     },
                     "to": {
                         "startLines": "5",

@@ -1,52 +1,76 @@
 {
     "logs": [
         {
-            "outputFile": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
+            "outputFile": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\build\\intermediates\\incremental\\mergeDebugResources\\merged.dir\\values\\values.xml",
             "map": [
                 {
-                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\values\\styles.xml",
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\strings.xml",
                     "from": {
-                        "startLines": "2",
+                        "startLines": "3",
                         "startColumns": "4",
-                        "startOffsets": "17",
-                        "endLines": "9",
-                        "endColumns": "12",
-                        "endOffsets": "475"
+                        "startOffsets": "59",
+                        "endColumns": "41",
+                        "endOffsets": "96"
                     },
                     "to": {
                         "startLines": "4",
                         "startColumns": "4",
-                        "startOffsets": "153",
-                        "endLines": "11",
-                        "endColumns": "12",
-                        "endOffsets": "611"
+                        "startOffsets": "168",
+                        "endColumns": "41",
+                        "endOffsets": "205"
                     }
                 },
                 {
-                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\values\\strings.xml",
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\color.xml",
                     "from": {
-                        "startLines": "3",
+                        "startLines": "2",
                         "startColumns": "4",
-                        "startOffsets": "56",
-                        "endColumns": "41",
-                        "endOffsets": "93"
+                        "startOffsets": "57",
+                        "endColumns": "55",
+                        "endOffsets": "108"
                     },
                     "to": {
-                        "startLines": "3",
-                        "startColumns": "4",
-                        "startOffsets": "111",
-                        "endColumns": "41",
-                        "endOffsets": "148"
-                    }
-                },
-                {
-                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop\\android\\res\\values\\color.xml",
-                    "from": {
                         "startLines": "2",
                         "startColumns": "4",
                         "startOffsets": "55",
                         "endColumns": "55",
                         "endOffsets": "106"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\ic_launcher_background.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "57",
+                        "endColumns": "56",
+                        "endOffsets": "109"
+                    },
+                    "to": {
+                        "startLines": "3",
+                        "startColumns": "4",
+                        "startOffsets": "111",
+                        "endColumns": "56",
+                        "endOffsets": "163"
+                    }
+                },
+                {
+                    "source": "C:\\Users\\user\\Desktop\\Course Materials\\Java Programs\\Game\\Drop-Zen-Game\\android\\res\\values\\styles.xml",
+                    "from": {
+                        "startLines": "2",
+                        "startColumns": "4",
+                        "startOffsets": "19",
+                        "endLines": "9",
+                        "endColumns": "12",
+                        "endOffsets": "484"
+                    },
+                    "to": {
+                        "startLines": "5",
+                        "startColumns": "4",
+                        "startOffsets": "210",
+                        "endLines": "12",
+                        "endColumns": "12",
+                        "endOffsets": "668"
                     }
                 }
             ]
